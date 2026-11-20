@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Name,Roll No,Python,Maths,Physics,Chemistry,English,Total,Average,Percentage,Grade,Result
 Rahul,101,85.0,90.0,78.0,88.0,92.0,433.0,86.6,86.6,A,Pass
 Priya,102,75.0,80.0,85.0,70.0,90.0,400.0,80.0,80.0,A,Pass
+=======
+Name,Roll No,Python,Maths,Physics,Chemistry,English,Total,Average,Percentage,Grade,Result
+Rahul,101,85.0,90.0,78.0,88.0,92.0,433.0,86.6,86.6,A,Pass
+Priya,102,75.0,80.0,85.0,70.0,90.0,400.0,80.0,80.0,A,Pass
+>>>>>>> aa1a31296d9cb726f87294185e228a264a195664
